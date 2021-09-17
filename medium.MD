@@ -1,3 +1,5 @@
+# Are Tensorflow/Keras generators too slow for you? Here's how you can write your own instead using train_on_batch
+
 
 The model.fit() interface provided by Tensorflow and Keras is simple and easy to use; pass in some NumPy vectors, callbacks, and various parameters and you’re set:
 
